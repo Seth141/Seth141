@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Seth141
-- 👀 I’m interested in RL, DL and inverse RL
-- 📫 How to reach me: seth141592@gmail.com
+- 👋 Hello there! I’m @Seth141
+- 👀 I’m very interested in RL, DL and inverse RL
+- 📫 Shoot me an email at: seth141592@gmail.com
+
+
 
 <!---
 Seth141/Seth141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
