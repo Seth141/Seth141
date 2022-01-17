@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m @Seth141
 - 👀 I’m very interested in RL, DL and inverse RL
-- ![](1.gif)
+- <img src="1.jpg" alt="nodes" width="300" height="300"/>
 - 📫 Shoot me an email at: seth141592@gmail.com
 
 
