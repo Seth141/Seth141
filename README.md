@@ -1,5 +1,6 @@
 - 👋 Hello there! I’m @Seth141
 - 👀 I’m very interested in RL, DL and inverse RL
+- ![](1.gif)
 - 📫 Shoot me an email at: seth141592@gmail.com
 
 
