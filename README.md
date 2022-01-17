@@ -1,5 +1,5 @@
 - 👋🏻 Hello there! I’m @Seth141
-- 🌐 I’m very interested in RL, DL and inverse RL
+- 🌐 I’m very interested in RL, DL and Inverse RL
 - 📩 Shoot me an email at: seth141592@gmail.com\
 /\
 //\
