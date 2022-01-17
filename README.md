@@ -1,7 +1,10 @@
 - 👋 Hello there! I’m @Seth141
 - 👀 I’m very interested in RL, DL and inverse RL
-- <img src="1.gif" alt="nodes" width="300" height="300"/>
 - 📫 Shoot me an email at: seth141592@gmail.com
+<img src="1.gif" alt="nodes" width="300" height="300"/>
+img {
+  border-radius: 50%;
+}
 
 
 
