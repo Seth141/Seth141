@@ -4,9 +4,9 @@
 /\
 //\
 ///\
-////\
-⚪️<img src="1.gif" alt="nodes" width="300" height="300"/>\
-////\
+////⚪️\
+<img src="1.gif" alt="nodes" width="300" height="300"/>\
+////⚪️\
 ///\
 //\
 /
