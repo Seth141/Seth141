@@ -1,5 +1,5 @@
 - 👋🏻 Hello there! I’m @Seth141
-- 🌐 I’m very interested in RL, DL and Inverse RL
+- 🌐 I’m very interested in Deep Learning, Machine Learning, Reinforcement Learning and Web Dev
 - 📩 Shoot me an email at: seth141592@gmail.com\
 /\
 //\
