@@ -1,12 +1,10 @@
-- 👋🏻 Hello there! I’m @Seth141
-- 🌐 I’m very interested in Deep Learning, Machine Learning, Reinforcement Learning and Web Dev
+- 👋🏻 Hello! I’m @Seth141
+- 🌐 I’m very interested in Machine Learning, Web Dev and Reinforcement Learning
 - 📩 Shoot me an email at: seth141592@gmail.com\
 /\
 //\
 ///\
-////\
 <img src="1.gif" alt="nodes" width="300" height="300"/>\
-////\
 ///\
 //\
 /
