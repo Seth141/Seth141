@@ -1,5 +1,5 @@
 - 👋🏻 Hello! I’m @Seth141
-- 🌐 I’m very interested in Machine Learning, Web Dev and Reinforcement Learning
+- 🌐 I’m very interested in Machine Learning, Web Dev and Augmented Reality
 - 📩 Shoot me an email at: seth141592@gmail.com\
 /\
 //\
